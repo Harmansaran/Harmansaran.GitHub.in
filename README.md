@@ -5,4 +5,4 @@
 | ----------- | ----------- |
 | 15.07.2024 | Dr. Pyare Lal Garg |
 | Header | Title |
-| Paragraph | Text |
+| Paragraph | Text |Dr. Pyare lal Garg say to students do your own work . not dependent others 
