@@ -4,4 +4,4 @@
 |Date| name of person |detail|
 | ----------- | ----------- |--------
 | 11.07.2024 | Dr. Pyare Lal Garg|Dr. Pyare lal Garg say to students do your own work . not dependent others|
-|1-7-2024| RK||SN| |NK| |All guests are very good tell us to stay confident and communicate with other confidentiality |
+|1-7-2024||RK| |All guests are very good tell us  stay confident and communicate with other confidentiality |
